@@ -12,7 +12,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Haruki Mizuno</h3>
+          <h3>Designed and Developed by Jackson Lee</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} HM</h3>
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/haruki-mizuno-6310a6365/"
+                href="https://www.linkedin.com/in/jacson-lee-56204538b/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
